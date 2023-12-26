@@ -21,17 +21,17 @@ The Product Feedback Tool is designed to facilitate the collection and managemen
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Imusmanali44/product-feedback-tool.git`
 2. Install dependencies: `npm install`
 3. Set up Firebase:
    - Create a Firebase project.
    - Obtain Firebase configuration credentials.
    - Add Firebase configuration to the project.
-4. Start the application: `npm start`
+4. Start the application: `npm run dev`
 
 ## Usage
 
-- Access the application on `localhost:3000` after starting the development server.
+- Access the application on `localhost:5173` after starting the development server.
 - Register or log in to manage feedback.
 - Submit new feedback, upvote existing items, edit, or delete feedback.
 
@@ -46,8 +46,7 @@ The Product Feedback Tool is designed to facilitate the collection and managemen
 
 ## Contributors
 
-- [Your Name](link to GitHub profile)
-- [Collaborator Name](link to GitHub profile)
+- https://github.com/Imusmanali44
 
 ## License
 
